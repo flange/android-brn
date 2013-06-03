@@ -1,0 +1,20 @@
+Download Android SDK (ADT Bundle):
+http://developer.android.com/sdk/index.html#download
+
+e.g. Linux 32-bit:
+http://dl.google.com/android/adt/adt-bundle-linux-x86-20130514.zip
+
+Unpack sdk
+unzip adt-bundle-linux-x86-20130514.zip
+
+Start Eclipse
+cd adt-bundle-linux-x86/ecplise
+./eclipse
+
+Import Project
+File -> Import -> Android -> Existing Android Code Into Workspace
+
+Root Directory: android/examples/misc/HelloWorld -> Finish
+
+Device 
+http://developer.android.com/tools/device.html
